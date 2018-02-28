@@ -1,11 +1,13 @@
 
 header {
+	background-image: url("header-background3.jpg");
     background-color: #9bd7ff;
     text-align: left;
-    padding: 20px;
+    padding: 90px;
 }
 h1 {
 	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	color: white;
 	font-size: 23px;
 	font-style: normal;
 	font-variant: normal;
