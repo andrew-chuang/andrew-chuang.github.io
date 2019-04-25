@@ -30,7 +30,6 @@ p {
 	font-weight: 400;
 	margin-left: 170px;
 	margin-right: 300px;
-    border-left: 1px solid gray;
     padding: 1em;
     overflow: scroll;
 }
